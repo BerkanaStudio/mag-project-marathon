@@ -316,6 +316,7 @@ hatch {
   text-align: center;
   color: #ffffff;
   transition: 200ms ease-in;
+  cursor: pointer;
 }
 .cta-form-btc:hover {
   background: linear-gradient(
